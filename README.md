@@ -1,0 +1,1 @@
+slimscroll 插件应用。滚动事件模拟。打开index.html 查看console的日志打印。
